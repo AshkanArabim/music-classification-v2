@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>music-classification</title>
+</head>
+<body>
+  {% if result %}
+  <h3>Your track's genre is: {{result}}!!</h3>
+  <p>Keep in mind that this model will be improved in future iterations.</p>
+  {% endif %}
+
+  <h1>Upload a track, get a genre</h1>
+  <p>As of right now, only wav files are supported</p>
+  <p>be sure your file is at least {{length}} seconds long</p>
+
+  <form action="/" method="post", enctype="multipart/form-data">
+    <input type="file" id="myFile" name="file">
+    <input type="submit">
+  </form>
+</body>
+</html>
