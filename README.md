@@ -18,5 +18,4 @@ The dataset can be downloaded from from this link:
 https://www.kaggle.com/datasets/asisheriberto/music-classification-wav
 
 ## Questions?
-Something doesn't work? Please reach out to any of us for clarification:
-.Ashkan Arabi
+Something doesn't work? Please reach out to Ashkan at ashkan.arabim@gmail.com . The project was tested on his system, so most problems are his fault!
