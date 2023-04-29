@@ -1,8 +1,8 @@
 # Music genre classification
 
-This is a small project done by Ashkan Arabi, Princess Thomas, and Emi Reuth as our final project for AI4ALL. 
+Original project was done by me, [Princess Thomas](https://github.com/pthomas234), and [Emi Reuth](https://github.com/erueth) as our final project for AI4ALL. I decided to expand it on my own to improve the performance and user experience. **Work in progress...**
 
-This was mainly a learning-project, so there is definitely room for improvement. 
+This is mainly a learning-project, so there is definitely room for improvement. 
 
 ## Environment setup
 This project used Conda as its main package manager. All the necessary (and unnecessary :p) packages can be found in the `requirements.txt` file ^^^. 
@@ -18,4 +18,4 @@ The dataset can be downloaded from from this link:
 https://www.kaggle.com/datasets/asisheriberto/music-classification-wav
 
 ## Questions?
-Something doesn't work? Please reach out to Ashkan at ashkan.arabim@gmail.com . The project was tested on his system, so most problems are his fault!
+Something doesn't work? Please reach out to me at ashkan.arabim@gmail.com.
